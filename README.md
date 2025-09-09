@@ -71,9 +71,8 @@ sistema-inventario/
 ├── queries_basicas.sql      # Consultas de prueba y reportes
 ├── manipulacion_datos.sql   # Manipulando la base de datos
 ├── queries_complejas.sql    # Consultas de prueba y reportes
-├── transacciones.sql        # Ejemplos de transacciones
-└── docs/
-    └── modelo_er.md         # Documentación del modelo ER
+└── transacciones.sql        # Ejemplos de transacciones
+
 ```
 
 ## 💾 Scripts Disponibles
